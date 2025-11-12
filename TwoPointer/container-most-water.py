@@ -7,7 +7,7 @@ class Solution:
 
         Parameters
         ----------
-        numbers: List[int]
+        height: List[int]
             Input list of integers.
         
         Returns
